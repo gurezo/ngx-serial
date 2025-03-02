@@ -8,8 +8,8 @@ describe('NgxSerialComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ NgxSerialComponent ]
-    })
+    imports: [NgxSerialComponent]
+})
     .compileComponents();
   });
 

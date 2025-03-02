@@ -4,13 +4,11 @@ import { NgxSerialComponent } from './ngx-serial.component';
 
 
 @NgModule({
-  declarations: [
-    NgxSerialComponent
-  ],
-  imports: [
-  ],
-  exports: [
-    NgxSerialComponent
-  ]
+    imports: [
+        NgxSerialComponent
+    ],
+    exports: [
+        NgxSerialComponent
+    ]
 })
 export class NgxSerialModule { }

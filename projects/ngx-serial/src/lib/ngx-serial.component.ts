@@ -7,8 +7,7 @@ import { Component, OnInit } from '@angular/core';
       ngx-serial works!
     </p>
   `,
-    styles: [],
-    standalone: false
+    styles: []
 })
 export class NgxSerialComponent implements OnInit {
 
