@@ -8,10 +8,7 @@
     "declarationMap": true,
     "inlineSources": true,
     "types": [],
-    "lib": [
-      "dom",
-      "es2018"
-    ]
+    "lib": ["ES2022", "dom"]
   },
   "exclude": [
     "src/test.ts",
